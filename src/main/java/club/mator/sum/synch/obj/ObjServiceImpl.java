@@ -1,6 +1,6 @@
 package club.mator.sum.synch.obj;
-
-import bianlifeng.synch.Service;
+;
+import club.mator.sum.synch.Service;
 
 import java.util.concurrent.TimeUnit;
 
@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  * desc:
  * version: 1.0
  */
-public class ObjServiceImpl implements Service{
+public class ObjServiceImpl implements Service {
 
     private String lock = "lock";//一定要是同一个对象
 

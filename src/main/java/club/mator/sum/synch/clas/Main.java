@@ -1,8 +1,9 @@
 package club.mator.sum.synch.clas;
 
-import bianlifeng.synch.AThred;
-import bianlifeng.synch.BThred;
-import bianlifeng.synch.Service;
+
+import club.mator.sum.synch.AThred;
+import club.mator.sum.synch.BThred;
+import club.mator.sum.synch.Service;
 
 import java.util.concurrent.FutureTask;
 import java.util.concurrent.LinkedBlockingQueue;

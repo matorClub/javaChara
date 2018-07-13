@@ -13,3 +13,4 @@ catalina*
 .vscode/
 /codegen
 out/
+.idea/
